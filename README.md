@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! meu nome é Lawanna, seja bem vindo! </h1> 
+<h1 align="center"> Olá! Meu nome é Lawanna, seja bem vindo! </h1> 
 <p align="center">💻 Estágio em Engenharia de Dados - IMB Consulting </p>
 <p align="center">📚  Estudante de Engenharia de Software (Universidade UNOPAR) 2022 - 2025 </p>
 
