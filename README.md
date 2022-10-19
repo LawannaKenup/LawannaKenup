@@ -6,6 +6,8 @@
 ![software-engineer](https://user-images.githubusercontent.com/107578850/196538166-439a7baa-ec42-470b-acbe-553f3cdc414a.jpg)
 
   📫 Entre em contato comigo: lawannakenup@hotmail.com 
-
-
-
+<div>
+<a href="https://github.com/LawannaKenup">
+<img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=LawannaKenup&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-status.vercel.app/api?username=LawannaKenup&show_icons=true&theme=dracula#include_all_commits=true&count_private=true"/>
+<div>
