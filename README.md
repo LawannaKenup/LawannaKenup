@@ -8,6 +8,6 @@
   📫 Entre em contato comigo: lawannakenup@hotmail.com 
 <div>
 <a href="https://github.com/LawannaKenup">
-<img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=LawannaKenup&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-status.vercel.app/api?username=LawannaKenup&show_icons=true&theme=dracula#include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=LawannaKenup&layout=compact&theme=synthwave"/>
+<img height="180em" src="https://github-readme-status.vercel.app/api?username=LawannaKenup&show_icons=true&theme=synthwave#include_all_commits=true&count_private=true"/>
 <div>
